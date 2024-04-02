@@ -11,7 +11,7 @@
 </p> 
 
  ### About Me :
-- 🏢 I'm a Software Engineering fresh graduate and front end learner.
+- 🏢 I'm a Software Engineering fresh graduate and React.js Software Engineer.
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 
 
