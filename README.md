@@ -12,7 +12,7 @@
 
  ### About Me :
 - 🏢 I'm a Software Engineering fresh graduate and React.js Software Engineer.
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 As a Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
 
 
 ### Connect with Me :
