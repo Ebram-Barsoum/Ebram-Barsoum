@@ -60,6 +60,13 @@
  <img src="https://img.shields.io/badge/shadcn/ui-000?style=flat&logo=tailwindcss&logoColor=white" height="25" alt="shadcn/ui" /> <strong>shadcn/ui</strong>&nbsp;&nbsp;
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Badge"/>
+  <img src="https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit Badge"/>
+</p>
+
+
+
 
 
 
