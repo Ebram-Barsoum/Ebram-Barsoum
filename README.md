@@ -11,7 +11,7 @@
 </p> 
 
  ### About Me :
-- 🏢 I'm a Software Engineering fresh graduate and React.js Software Engineer.
+- 🏢 I'm a React.js Software Engineer with almost 1 year of experience.
 - 👨‍💻 As a Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
 
 
